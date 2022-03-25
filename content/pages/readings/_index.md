@@ -84,7 +84,7 @@ Industries, Voters, and Cleavages
 {{< tdopen >}}
 
 
-Rogowski, Ronald. "Political Cleavages and Changing Exposure to Trade." _The American Political Science Review_ 81, no. 4 (1987): 1121–37. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1MB](https://www.jstor.org/stable/1962581?seq=1#metadata_info_tab_contents))
+Rogowski, Ronald. "Political Cleavages and Changing Exposure to Trade." _The American Political Science Review_ 81, no. 4 (1987): 1121–37. ([PDF - 2.1MB](https://www.jstor.org/stable/1962581?seq=1#metadata_info_tab_contents))
 
 Magee, Stephen P., William A. Brock, and Leslie Young. "Three Simple Tests of the Stolper-Samuelson Theorem." In _Black Hole Tariffs and Endogenous Policy Theory: Political Economy in General Equilibrium_. Cambridge University Press, 1989, pp. 101–10. ISBN: 9780521377003.
 
@@ -112,7 +112,7 @@ Institutional and Structural Perspectives
 
 Chase, Kerry. "[Economic Interests and Regional Trading Arrangements: The Case of NAFTA](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=138655)." _International Organization_ 57, no. 1 (2003): 137–74.
 
-Mansfield, Edward, and Eric Reinhardt. "Multilateral Determinants of Regionalism: The Effects of GATT/WTO on the Formation of Regional Trading Arrangements." _International Organization_ 57, no. 4 (2003): 829–62. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://dx.doi.org/10.1017/S0020818303574069))
+Mansfield, Edward, and Eric Reinhardt. "Multilateral Determinants of Regionalism: The Effects of GATT/WTO on the Formation of Regional Trading Arrangements." _International Organization_ 57, no. 4 (2003): 829–62. ([PDF](http://dx.doi.org/10.1017/S0020818303574069))
 
 Hiscox, Michael J. "[The Magic Bullet? The RTAA, Institutional Reform and Trade Liberalization](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=172975)." _International Organization_ 53, no. 4 (1999): 669–98.
 
@@ -174,7 +174,7 @@ Broz, J. Lawrence, and Jeffry Frieden. "[The Political Economy of International 
 
 Bernhard, William, J. Lawrence Broz, et al. "[The Political Economy of Monetary Institutions](http://www.jstor.org/pss/3078645)." _International Organization_ 56, no. 4 (2002): 693–723.
 
-Neely, Christopher J. "An Introduction to Capital Controls." _Federal Reserve Bank of St. Louis Review_ 81, no. 6 (1999): 13–30. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://research.stlouisfed.org/publications/review/99/11/9911cn.pdf))
+Neely, Christopher J. "An Introduction to Capital Controls." _Federal Reserve Bank of St. Louis Review_ 81, no. 6 (1999): 13–30. ([PDF](http://research.stlouisfed.org/publications/review/99/11/9911cn.pdf))
 
 Frieden, Jeffry A. Chapters 12, 15, and 20 in _Global Capitalism: Its Fall and Rise in the Twentieth Century_. W. W. Norton & Company, 2006. ISBN: 9780393058086.
 
@@ -268,7 +268,7 @@ Goodman, John, and Louis Pauly. "[The Obsolescence of Capital Controls? Economic
 
 Frankel, Jeffrey, and Andrew Rose. "[An Estimate of the Effect of Common Currencies on Trade and Income](http://www.jstor.org/pss/2696432)." _The Quarterly Journal of Economics_ 117, no. 2 (2002): 437–66.
 
-Obstfeld, Maurice. "The Global Capital Markets: Benefactor or Menace?." NBER Working Paper W6559, May 1998. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nber.org/papers/w6559.pdf))
+Obstfeld, Maurice. "The Global Capital Markets: Benefactor or Menace?." NBER Working Paper W6559, May 1998. ([PDF](http://www.nber.org/papers/w6559.pdf))
 
 Frieden, Jeffry. "Economic Integration and the Politics of Monetary Policy in the United States." In _Internationalization and Domestic Politics (Cambridge Studies in Comparative Politics)_. Edited by Robert O. Keohane and Helen V. Milner. Cambridge University Press, 1996. ISBN: 9780521565875. \[Preview with [Google Books](http://books.google.com/books?id=7DrQ-GgEKRkC&pg=PA108#v=onepage)\]
 
@@ -302,7 +302,7 @@ Hainmueller, Jens, and Michael J. Hiscox. "[Attitudes Towards Highly Skilled and
 
 Leblang, David. "[Familiarity Breeds Investment: Diaspora Networks and International Investment](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7909382)." _The American Political Science Review_ 104, no. 3 (2010): 584–600.
 
-———. _Harnessing the Diaspora: The Political Economy of Dual Citizenship_. Working Paper, University of Virginia, 2010. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](http://personal.lse.ac.uk/RICKARD/david.pdf))
+———. _Harnessing the Diaspora: The Political Economy of Dual Citizenship_. Working Paper, University of Virginia, 2010. ([PDF](http://personal.lse.ac.uk/RICKARD/david.pdf))
 
 Money, Jeanette. "[No Vacancy: The Political Geography of Immigration Control in Advanced Industrial Countries](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=173213)." _International Organization_ 51, no. 4 (1997): 685–720.
 
